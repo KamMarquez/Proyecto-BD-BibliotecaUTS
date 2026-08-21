@@ -4,7 +4,7 @@
 **BibliotecaUTS - Sistema de solicitudes de impresión**
 
 ## Integrantes
-- Agregar integrantes del equipo aquí.
+- Camila Videri Marquez Garcia
 
 ## Problema
 El sistema busca digitalizar la gestión de solicitudes de impresión de estudiantes de la biblioteca, permitiendo registrar archivos, tipo de impresión, copias, páginas, fecha y hora de recogida, impresora, costo y estado del pago.
@@ -68,7 +68,3 @@ El archivo `04_dml_analitico_avanzado.sql` contiene:
 - 3 consultas de agregación y agrupación.
 - 2 consultas con `HAVING`.
 - Comentarios que explican la pregunta de negocio de cada consulta.
-
-## Nota para la entrega
-
-El repositorio debe ser **público** y debe conservar la estructura solicitada por la actividad. Completar los nombres de los integrantes y sustituir/actualizar los documentos de requisitos si el equipo ya cuenta con versiones oficiales.
